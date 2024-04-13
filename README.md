@@ -1,7 +1,4 @@
-This repository include 2 file:
-
-# 1. File sorter
-# 2. Season-Episode extractor
+# This repository include 2 python files to perform operations on files and directories.
 
 ## 1. File sorter
 
